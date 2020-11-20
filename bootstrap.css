@@ -1,0 +1,38 @@
+
+pre, p {
+    font-size: 5em;
+    color: #800000;
+    background-color:#CD5C5C;
+
+}
+
+p {
+  background-color: #CD5C5C;
+}
+.catsandstars {
+  background-image:  url("file:///C:/Users/Dell%205470/Desktop/project2/msi.jpg");
+  background-color: transparent;
+  background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 500px;
+}
+.dropdown-menu{
+  color: #8B4513;
+}
+.dropdown-item{
+  color: #8B4513;
+}
+#carcarousel{
+  height: 500px;
+  width: 1920px;
+}
+.card-text{
+  background-color: white;
+  font-size: 30px;
+}
+.tr{
+  color: white;
+  height: 500px;
+}
